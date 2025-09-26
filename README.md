@@ -22,14 +22,21 @@ Our findings reveal how duplication can alter generalization, robustness, and th
 
 ## 📂 Repository Structure  
 
+
 ├── Code/
+
 │ └── Implementation of experiments:
+
 │ - Effect of duplication when data points are selected from a Gaussian distribution
+
 │ - Experiments on CIFAR-10 with duplication added to both standard and adversarially trained models
 │
+
 ├── paper_output_for_gaussian_distriibution/
+
 │ └── Visualization of how duplications from Gaussian distribution affect decision boundaries
 │
+
 └── README.md
 
 
